@@ -14,6 +14,10 @@ public class BabyAge {
 //		month=yr*12;
 //		System.out.println("year"+yr+"month"+month);
 		
+		//some changes
+		int cty=20;
+		int r=50;
+		
 		String alph;
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the alphabet");
